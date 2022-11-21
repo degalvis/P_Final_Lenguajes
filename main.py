@@ -17,5 +17,4 @@ def main():
     else:
         print("Oración incorrecta")
     
-     
 main()
