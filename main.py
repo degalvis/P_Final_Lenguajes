@@ -1,5 +1,4 @@
 from analizador import analizador
-from tkinter import *
 def main():
     sujetoInput = input("Ingrese una un sujeto: ")
     verboInput = input("Ingrese una un verbo: ")
